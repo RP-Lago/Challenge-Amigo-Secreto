@@ -63,13 +63,9 @@ O README é uma ferramenta muito importante para documentar seu código, além d
 
 ## Autor
 
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rp-lago/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/cbc3d1d5-895f-4612-8385-2be587d3a10b" alt="Robson Pereira Lago" style="width: 120px; height: 120px; border: 2px solid lightgray;">
-  </a>
-      <br>Robson Pereira Lago
-    </td>
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/cbc3d1d5-895f-4612-8385-2be587d3a10b" width=115><br><sub>Robson Pereira Lago</sub>](https://www.linkedin.com/in/rp-lago/) |
+| :---: |
+
 
 ## Com quem venho aprendendo.
 <table>
